@@ -1,8 +1,8 @@
-#DIO
+# DIO
 # Perfil-GitHub-Mobile // Introdução ao React Native
 
 ## Projeto feito com a DIO! Utilizando React-Native e muitas outras ferramentas, dentre elas, o Android Studio!
-![image](https://user-images.githubusercontent.com/93789218/173389425-f4ea59d2-a3bb-4275-a6ef-1cef2c562baa.png)
+![image](https://user-images.githubusercontent.com/93789218/173390148-63ff0246-78f5-4f1f-b423-8539c473734d.png)
 
 ## Conteúdo 
 - O que é react-native?
